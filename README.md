@@ -16,15 +16,16 @@ Este é um programa de controle de finanças pessoais em linguagem C. Ele permit
 ## Como Usar
 - Compilação: Compile o programa utilizando um compilador C, por exemplo, GCC:
 
-bash
+bash:
 Copy code
 gcc controle_financas.c -o controle_financas
 Execução: Execute o programa compilado:
 
-bash
+bash:
 Copy code
 ./controle_financas
-Menu Inicial: O programa exibirá um menu inicial com opções para login, cadastro e sair.
+
+- Menu Inicial: O programa exibirá um menu inicial com opções para login, cadastro e sair.
 
 - Login: Selecione a opção de login, digite o nome de usuário e senha quando solicitado.
 
