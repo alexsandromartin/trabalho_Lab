@@ -1,5 +1,5 @@
 # Controle de Finanças Pessoais 
-Um sistema de gerencia de finanças com a linguagem C
+Um sistema de gerencia de finanças com a linguagem C. Trabalho desenvolvido na cadeira de Laboratório de Programação.
 
 ## Descrição
 Este é um programa de controle de finanças pessoais em linguagem C. Ele permite que o usuário faça login, Cadastre-se, registre receitas/despesas, visualize relatórios, atualize e remova transações, além de verificar o controle de orçamento.
